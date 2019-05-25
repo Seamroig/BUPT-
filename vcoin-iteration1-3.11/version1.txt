@@ -1,0 +1,8 @@
+That is my iteration1
+
+In my first attempts
+
+1.build a entrance function-main.go
+
+2.implement the basic data structure of block and blockchain
+
