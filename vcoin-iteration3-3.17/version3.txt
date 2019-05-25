@@ -1,0 +1,7 @@
+That is my iteration3
+
+In this new version:
+
+1.I use the boltDB to store my blockchain data(if we don't use the database,we will lose the data if we shut down the PC)
+
+2.I build a command line to operate my blockchain system
